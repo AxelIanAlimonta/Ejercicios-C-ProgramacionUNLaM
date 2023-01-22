@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633355102 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej15_16_strstrenarchivostxt\main.c
+	"funciones.h"
+
+1633365106 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej15_16_strstrenarchivostxt\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1633365241 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej15_16_strstrenarchivostxt\funciones.c
+	"funciones.h"
+

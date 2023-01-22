@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631660185 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\menumatriz\main.c
+	"menuMatriz.h"
+
+1631660709 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\menumatriz\menumatriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1631660151 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\menumatriz\menumatriz.c
+	"menuMatriz.h"
+

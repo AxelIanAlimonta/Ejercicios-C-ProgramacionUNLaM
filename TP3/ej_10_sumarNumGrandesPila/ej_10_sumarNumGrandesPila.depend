@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1636334396 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_10_sumarnumgrandespila\pila.c
+	"Pila.h"
+
+1636334388 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_10_sumarnumgrandespila\pila.h
+	<stdlib.h>
+	<string.h>
+
+1636334769 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_10_sumarnumgrandespila\main.c
+	"funciones.h"
+	"Pila.h"
+
+1636334691 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_10_sumarnumgrandespila\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1636335035 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_10_sumarnumgrandespila\funciones.c
+	"funciones.h"
+

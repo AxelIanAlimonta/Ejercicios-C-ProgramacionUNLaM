@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1632327793 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\main.c
+	"txtAbin.h"
+
+1632327699 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\txtabin.h
+	<stdio.h>
+	<stdlib.h>
+
+1632362626 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\txtabin.c
+	"txtAbin.h"
+
+1632327793 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin2\main.c
+	"txtAbin.h"
+
+1632327699 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin2\txtabin.h
+	<stdio.h>
+	<stdlib.h>
+
+1632381828 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin2\txtabin.c
+	"txtAbin.h"
+

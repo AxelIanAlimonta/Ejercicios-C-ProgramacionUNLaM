@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1636845838 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\arbol\arbol.c
+	"Arbol.h"
+
+1636845424 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\arbol\main.c
+	"Arbol.h"
+	"funciones.h"
+
+1636844943 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\arbol\arbol.h
+	<string.h>
+	<stdlib.h>
+
+1636844671 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\arbol\funciones.c
+	"funciones.h"
+
+1636844671 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\arbol\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1637330366 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\arbol\funciones.c
+	"funciones.h"
+
+1637329677 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\arbol\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	"Arbol.h"
+
+1637331253 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\arbol\arbol.c
+	"Arbol.h"
+
+1637334179 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\arbol\arbol.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1637334179 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\arbol\main.c
+	"funciones.h"
+

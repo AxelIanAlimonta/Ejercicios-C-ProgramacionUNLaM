@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634786223 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\cola\cola.c
+	<string.h>
+	<stdlib.h>
+	"Cola.h"
+
+1634784749 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\cola\cola.h
+

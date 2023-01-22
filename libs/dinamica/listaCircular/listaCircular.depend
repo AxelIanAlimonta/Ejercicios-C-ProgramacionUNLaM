@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1636068863 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaCircular.h"
+
+1636068848 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listacircular\listacircular.h
+
+1636070359 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listacircular\listacircular.c
+	"listaCircular.h"
+	<string.h>
+	<stdlib.h>
+
+1636070359 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\listacircular\listacircular.c
+	"listaCircular.h"
+	<string.h>
+	<stdlib.h>
+
+1636068848 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\listacircular\listacircular.h
+

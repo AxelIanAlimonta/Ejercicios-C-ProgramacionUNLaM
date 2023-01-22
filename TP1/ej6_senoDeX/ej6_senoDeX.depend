@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633155330 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\ej6_senodex\main.c
+	<stdio.h>
+	<stdlib.h>
+

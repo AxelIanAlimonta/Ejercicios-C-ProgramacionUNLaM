@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631043958 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mistringh\mistringh.c
+	<stdio.h>
+	<stdlib.h>
+	"miStringH.h"
+
+1631043958 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mistringh\mistringh.h
+
+1631043432 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mistringh\main.c
+	<stdio.h>
+	<stdlib.h>
+	"miStringH.h"
+

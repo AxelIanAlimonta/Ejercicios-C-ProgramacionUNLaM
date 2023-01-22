@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633144832 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\ej1_factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

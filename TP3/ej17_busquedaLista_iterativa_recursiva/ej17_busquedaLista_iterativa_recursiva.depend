@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636831536 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej17_busquedalista_iterativa_recursiva\funciones.c
+	"funciones.h"
+
+1636833129 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej17_busquedalista_iterativa_recursiva\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1636834184 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej17_busquedalista_iterativa_recursiva\main.c
+	"funciones.h"
+	"Lista.h"
+
+1636834239 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej17_busquedalista_iterativa_recursiva\lista.c
+	"Lista.h"
+
+1636833954 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej17_busquedalista_iterativa_recursiva\lista.h
+	<stdlib.h>
+	<string.h>
+

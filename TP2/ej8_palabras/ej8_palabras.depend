@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633293425 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej8_palabras\main.c
+	"funciones.h"
+
+1633293277 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej8_palabras\funciones.c
+	"funciones.h"
+
+1633293277 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej8_palabras\funciones.h
+	<stdio.h>
+	<stdlib.h>
+

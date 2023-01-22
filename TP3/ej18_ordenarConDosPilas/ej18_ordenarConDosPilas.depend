@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1636841947 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej18_ordenarcondospilas\main.c
+	"funciones.h"
+	"Pila.h"
+
+1636841867 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej18_ordenarcondospilas\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1636837571 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej18_ordenarcondospilas\pila.h
+	<stdlib.h>
+	<string.h>
+
+1636841548 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej18_ordenarcondospilas\pila.c
+	"Pila.h"
+
+1636841881 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej18_ordenarcondospilas\funciones.c
+	"funciones.h"
+

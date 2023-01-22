@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631298530 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\codigocesar\main.c
+	"codigoCesar.h"
+
+1631298717 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\codigocesar\codigocesar.h
+	<stdio.h>
+	<stdlib.h>
+
+1631298711 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\codigocesar\codigocesar.c
+	"codigoCesar.h"
+

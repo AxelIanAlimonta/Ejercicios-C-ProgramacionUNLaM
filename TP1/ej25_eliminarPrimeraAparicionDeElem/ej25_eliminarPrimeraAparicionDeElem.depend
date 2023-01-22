@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633162447 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\ej25_eliminarprimeraapariciondeelem\main.c
+	<stdio.h>
+	<stdlib.h>
+

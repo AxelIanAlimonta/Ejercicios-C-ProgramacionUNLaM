@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630669554 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\clases\clase vectores\menuvectores\main.c
+	"FuncionesVectores.h"
+
+1630668433 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\clases\clase vectores\menuvectores\funcionesvectores.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1630668550 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\clases\clase vectores\menuvectores\funcionesvectores.c
+	"FuncionesVectores.h"
+

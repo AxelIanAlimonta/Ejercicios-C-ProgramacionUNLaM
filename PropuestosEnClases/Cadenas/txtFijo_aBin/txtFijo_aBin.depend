@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632374964 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\main.c
+	"funciones.h"
+
+1632376295 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1632376454 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\txtfijo_abin\funciones.c
+	"funciones.h"
+	<string.h>
+

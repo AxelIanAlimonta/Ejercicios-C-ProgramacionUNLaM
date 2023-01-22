@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633170426 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej1_menuarrayfloat\main.c
+	"funciones.h"
+
+1633170188 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej1_menuarrayfloat\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1633170565 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp2\ej1_menuarrayfloat\funciones.c
+	"funciones.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1636752743 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej16_lista_agrupar\main.c
+	"funciones.h"
+
+1636751562 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej16_lista_agrupar\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1636752724 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej16_lista_agrupar\lista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Lista.h"
+
+1636752724 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej16_lista_agrupar\lista.c
+	"Lista.h"
+
+1636751545 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej16_lista_agrupar\funciones.c
+	"funciones.h"
+

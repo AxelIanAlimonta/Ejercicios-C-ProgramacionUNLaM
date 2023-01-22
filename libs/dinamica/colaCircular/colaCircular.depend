@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635949387 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\colacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1635949626 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\colacircular\cola.c
+	"cola.h"
+
+1635948457 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\colacircular\cola.h
+	<string.h>
+	<stdlib.h>
+

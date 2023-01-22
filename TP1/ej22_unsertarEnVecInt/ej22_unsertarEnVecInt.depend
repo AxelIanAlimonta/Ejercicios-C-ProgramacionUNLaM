@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633159586 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\ej22_unsertarenvecint\main.c
+	<stdio.h>
+	<stdlib.h>
+

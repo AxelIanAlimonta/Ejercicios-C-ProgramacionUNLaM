@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631290461 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\mi_atoi\mi_atoi.c
+	"mi_atoi.h"
+
+1631290854 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\mi_atoi\mi_atoi.h
+	<stdio.h>
+	<stdlib.h>
+
+1631290971 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp1\mi_atoi\main.c
+	"mi_atoi.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635751417 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listasimple\lista.c
+	"Lista.h"
+	<string.h>
+
+1635519718 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listasimple\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1635751464 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\listasimple\main.c
+	"Lista.h"
+

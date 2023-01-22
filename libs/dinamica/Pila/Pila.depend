@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1633967389 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\pila\pila.c
+	"Pila.h"
+
+1633967470 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\pila\pila.h
+	<string.h>
+	<stdlib.h>
+
+1633969314 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\pila\pila.c
+	"Pila.h"
+
+1633968150 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\pila\pila.h
+	<string.h>
+	<stdlib.h>
+

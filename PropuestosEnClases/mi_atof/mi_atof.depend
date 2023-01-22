@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631229123 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mi_atof\mi_atof.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_atof.h"
+
+1631228942 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mi_atof\mi_atof.h
+
+1631229050 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\mi_atof\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_atof.h"
+

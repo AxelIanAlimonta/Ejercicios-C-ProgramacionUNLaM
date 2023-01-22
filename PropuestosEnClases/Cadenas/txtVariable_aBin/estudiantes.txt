@@ -1,0 +1,6 @@
+1000001|Alonso|Juan|10.000000
+1000002|Bemnitez|Juan Carlos|9.500000
+1000003|Dominguez|Alberto|8.300000
+1000004|Fernandez|Laura|7.100000
+1000005|Gutierrez|Maria Alicia|10.000000
+1000006|Herrera|Lucas|2.300000

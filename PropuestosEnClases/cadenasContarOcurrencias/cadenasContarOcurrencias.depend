@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631300278 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenascontarocurrencias\main.c
+	"contarOcurrencias.h"
+
+1631300968 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenascontarocurrencias\contarocurrencias.h
+	<stdio.h>
+	<stdlib.h>
+
+1631301033 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenascontarocurrencias\contarocurrencias.c
+	"contarOcurrencias.h"
+

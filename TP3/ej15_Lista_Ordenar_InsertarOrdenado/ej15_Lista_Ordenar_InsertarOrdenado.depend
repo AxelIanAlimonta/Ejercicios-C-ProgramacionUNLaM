@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636678348 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej15_lista_ordenar_insertarordenado\main.c
+	"funciones.h"
+
+1636678348 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej15_lista_ordenar_insertarordenado\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1636676852 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej15_lista_ordenar_insertarordenado\lista.h
+	<stdlib.h>
+	<string.h>
+
+1636676997 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej15_lista_ordenar_insertarordenado\lista.c
+	"Lista.h"
+
+1636677927 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\tp3\ej15_lista_ordenar_insertarordenado\funciones.c
+	"funciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631854327 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\archivosbin_ejbasico\main.c
+	"archivosBin.h"
+
+1631854322 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\archivosbin_ejbasico\archivosbin.h
+	<stdio.h>
+	<stdlib.h>
+
+1631854134 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\archivosbin_ejbasico\archivosbin.c
+	"archivosBin.h"
+

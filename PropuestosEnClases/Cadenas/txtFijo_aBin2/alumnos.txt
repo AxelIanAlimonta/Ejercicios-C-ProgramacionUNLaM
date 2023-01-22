@@ -1,0 +1,7 @@
+10000001                       Alvarez                   Juan Carlos 9.70
+10000002                     Domingues                   Lucas Mario 3.70
+10000003                    Echeberria                        Marcos 2.00
+10000004                     Fernandez                 Esteban Quito 5.30
+10000005                      Gonzales                      Cristian 9.70
+10000006                       Herrera                         Pablo 7.10
+10000007                         Lopez                Matias Alberto 6.00

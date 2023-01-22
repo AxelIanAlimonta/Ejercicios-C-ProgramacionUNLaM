@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632324518 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicasscanfparseo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

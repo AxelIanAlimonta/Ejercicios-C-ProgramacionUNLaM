@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632333216 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\fgetssobrearchivo\main.c
+	"funciones.h"
+
+1632333072 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\fgetssobrearchivo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1632333274 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\cadenas\fgetssobrearchivo\funciones.c
+	"funciones.h"
+

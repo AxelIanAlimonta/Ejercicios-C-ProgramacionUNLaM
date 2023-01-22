@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636327241 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_4_pilayarchbin\main.c
+	"funciones.h"
+
+1636327241 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_4_pilayarchbin\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1636326017 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_4_pilayarchbin\pila.c
+	"Pila.h"
+
+1636326017 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_4_pilayarchbin\pila.h
+	<stdlib.h>
+	<string.h>
+
+1636326687 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\ej_4_pilayarchbin\funciones.c
+	"funciones.h"
+

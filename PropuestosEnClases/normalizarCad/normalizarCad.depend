@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631292770 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\normalizarcad\normalizarcad.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizarCad.h"
+
+1631229986 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\normalizarcad\normalizarcad.h
+
+1631292541 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\normalizarcad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizarCad.h"
+

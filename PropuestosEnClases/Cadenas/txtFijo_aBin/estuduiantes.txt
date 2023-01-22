@@ -1,0 +1,6 @@
+10000001        Alvarez           Juan10.00
+10000002       Ceballos          Lucas 2.20
+10000003     Dominmgues         Carlos 3.40
+10000004     Echeverria          Maria 9.40
+10000005      Fernandez          Juana 2.10
+10000006          Gomez           Juan 1.20

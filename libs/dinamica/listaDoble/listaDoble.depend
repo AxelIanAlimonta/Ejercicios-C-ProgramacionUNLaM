@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1636123373 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\listadoble\main.c
+	"listaDoble.h"
+
+1636123599 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636123599 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\colacircular\listadoble\listadoble.c
+	"listaDoble.h"
+
+1636123599 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\listadoble\listadoble.c
+	"listaDoble.h"
+
+1636123599 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\libs\dinamica\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

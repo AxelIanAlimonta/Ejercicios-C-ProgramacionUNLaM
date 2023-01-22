@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637808816 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicalistadoble\funciones.c
+	"funciones.h"
+
+1637802371 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicalistadoble\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1637809228 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicalistadoble\listadoble.c
+	"listaDoble.h"
+
+1637809013 c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicalistadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637808816 source:c:\users\amd_fx\desktop\chrycrk\unlam\programacion\ejercicios\practicalistadoble\main.c
+	"funciones.h"
+	"listaDoble.h"
+
